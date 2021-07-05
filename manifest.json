@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Open BZs",
-	"description": "Open BZs in new tabs",
+	"name": "Open BZs in new tabs",
+	"description": "Adds a button, to Red Hat's bugzilla ticket search results, which opens all the tickets in new tabs",
 	"version": "0.0.1",
 	"permissions": [
 		"tabs"
